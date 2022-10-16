@@ -1,0 +1,50 @@
+
+body {
+    margin: 0;
+background-color: #4e5050;
+
+}
+
+
+.signup-box {
+    background-color: white;
+    margin: auto;
+    border-radius: 4px;
+    width: 360px;
+    height: 670px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label{
+
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input  {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+button[type ="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #2ca832;
+    border-radius: 5px;
+    color: white;
+}
